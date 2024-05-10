@@ -50,7 +50,7 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 
 
-### GitHub Analytics
+### ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/AbhishekNagar1">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhishekNagar1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
