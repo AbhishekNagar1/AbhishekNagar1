@@ -5,6 +5,7 @@
  - 🏆I have Qualified GATE'24 Examination which reflects my strong CS fundamentals which makes me different from other candidates.
  - 🌱I’m looking to collaborate on a few projects pertaining a similar skill set.
  - 📫 How to reach me : links : https://linktr.ee/AbhishekNagar1
+ - Leetcode: https://leetcode.com/profile/
 
 ### ⚙️ Tech Stack
 #### Programming Languages
