@@ -1,5 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&size=24&width=500&lines=🧑🏻‍💻Software_Engineer;🎙Music_Producer;💻Video_Editor;✒️Product_Designer)
 
+ - ![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blue?style=flat&logo=github&logoColor=white)
  - 👋🏻Hello My Name is Abhishek Nagar.
  - I am Deeply Interested in Programming, App Development, UI/UX Designing, AI, ML.
  - 🏆I have Qualified GATE'24 Examination which reflects my strong CS fundamentals which makes me different from other candidates.
